@@ -1,6 +1,7 @@
-a=5
-b=6
-c=3
-d=9
+a=55
+b=64
+c=35
+d=91
+sum = a+b+c+d
 print sum (a+b+c+d)
 
